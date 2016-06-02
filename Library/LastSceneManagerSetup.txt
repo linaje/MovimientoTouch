@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Internal/Scenes/Scn_movTouch1.unity
+  isLoaded: 1
+  isActive: 1
